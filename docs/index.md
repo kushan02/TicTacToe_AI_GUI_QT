@@ -21,12 +21,12 @@ This cpu player in this game is powered by Aritifical Intelligence (AI) which ma
 
 ## Screenshots
 
-![Screenshot_1] (https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/1.png)
+![Screenshot_1](https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/1.png)
 
-![Screenshot_2] (https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/2.png)
+![Screenshot_2](https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/2.png)
 
-![Screenshot_3] (https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/3.png)
+![Screenshot_3](https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/3.png)
 
-![Screenshot_4] (https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/4.png)
+![Screenshot_4](https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/4.png)
 
-![Screenshot_5] (https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/5.png)
+![Screenshot_5](https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/5.png)
