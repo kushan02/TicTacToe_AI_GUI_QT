@@ -21,12 +21,12 @@ You don't need to bother wasting few hours for formatting and making the file wh
 
 ## Screenshots
 
-! [Screenshot 1] (https://kushan02.github.io/-CHARUSAT-Document_Generation_Automation/assets/screenshots/1.png)
+! [Screenshot_1] (https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/1.png)
 
-! [Screenshot 2] (https://kushan02.github.io/-CHARUSAT-Document_Generation_Automation/assets/screenshots/2.png)
+! [Screenshot_2] (https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/2.png)
 
-! [Screenshot 3] (https://kushan02.github.io/-CHARUSAT-Document_Generation_Automation/assets/screenshots/3.png)
+! [Screenshot_3] (https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/3.png)
 
-! [Screenshot 4] (https://kushan02.github.io/-CHARUSAT-Document_Generation_Automation/assets/screenshots/4.png)
+! [Screenshot_4] (https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/4.png)
 
-! [Screenshot 5] (https://kushan02.github.io/-CHARUSAT-Document_Generation_Automation/assets/screenshots/5.png)
+! [Screenshot_5] (https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/5.png)
