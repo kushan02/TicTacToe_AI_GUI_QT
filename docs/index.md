@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
-**The hard parts made easy!**
 
-This automation system automatically generates the practical file for you when supplied with the corresponding code, output and conclusion files. Perfect formatting guidelines are followed to generate the file!
-You don't need to bother wasting few hours for formatting and making the file when it can be done via a click of button!
+Tic Tac Toe (or Noughts and Crosses ,Xs and Os) is a pencil-and-paper game for two players, X and O, who take turns marking the spaces in 3 * 3 grid. The player who succeeds in placing three respective props in a horizontal, vertical, or diagonal row or column wins the game.
+
+This cpu player in this game is powered by Aritifical Intelligence (AI) which makes the cpu unbeatable.
+
 
 ## System Requirements
 
@@ -18,15 +19,14 @@ You don't need to bother wasting few hours for formatting and making the file wh
 
 3. Play the game!
 
-
 ## Screenshots
 
-! [Screenshot_1] (https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/1.png)
+![Screenshot_1] (https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/1.png)
 
-! [Screenshot_2] (https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/2.png)
+![Screenshot_2] (https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/2.png)
 
-! [Screenshot_3] (https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/3.png)
+![Screenshot_3] (https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/3.png)
 
-! [Screenshot_4] (https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/4.png)
+![Screenshot_4] (https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/4.png)
 
-! [Screenshot_5] (https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/5.png)
+![Screenshot_5] (https://kushan02.github.io/TicTacToe_AI_GUI_QT/assets/screenshots/5.png)
